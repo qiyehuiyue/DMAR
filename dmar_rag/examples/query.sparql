@@ -1,0 +1,5 @@
+SELECT ?item ?prop ?value WHERE {
+  ?item ?p ?value .
+  ?property wikibase:directClaim ?p .
+  BIND(?property AS ?prop)
+} LIMIT 1000

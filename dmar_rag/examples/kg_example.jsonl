@@ -1,0 +1,19 @@
+{"head":"Barack Obama","relation":"spouse","tail":"Michelle Obama","aliases":{"Obama":"Barack Obama","Michelle":"Michelle Obama"}}
+{"head":"Barack Obama","relation":"born_in","tail":"Honolulu"}
+{"head":"Barack Obama","relation":"president_of","tail":"United States"}
+{"head":"Michelle Obama","relation":"alma_mater","tail":"Princeton University"}
+{"head":"Michelle Obama","relation":"alma_mater","tail":"Harvard Law School"}
+{"head":"United States","relation":"capital","tail":"Washington, D.C."}
+{"head":"Honolulu","relation":"located_in","tail":"Hawaii"}
+{"head":"Hawaii","relation":"country","tail":"United States"}
+{"head":"Princeton University","relation":"located_in","tail":"Princeton"}
+{"head":"Harvard Law School","relation":"part_of","tail":"Harvard University"}
+{"head":"Harvard University","relation":"located_in","tail":"Cambridge"}
+{"head":"University of Oxford","relation":"located_in","tail":"Oxford"}
+{"head":"Albert Einstein","relation":"field","tail":"Physics","aliases":{"Einstein":"Albert Einstein"}}
+{"head":"Albert Einstein","relation":"educated_at","tail":"University of Zurich"}
+{"head":"University of Zurich","relation":"located_in","tail":"Zurich"}
+{"head":"Physics","relation":"subfield","tail":"Quantum Mechanics"}
+{"head":"Quantum Mechanics","relation":"influenced","tail":"Modern Technology"}
+{"head":"Cambridge","relation":"country","tail":"United Kingdom"}
+{"head":"Oxford","relation":"country","tail":"United Kingdom"}

@@ -1,0 +1,3 @@
+{"claim":"Michelle Obama graduated from Harvard Law School.","label":"Supported","evidence":[{"title":"Michelle Obama","text":"Michelle Obama attended Princeton University and Harvard Law School."},{"title":"Harvard Law School","text":"Harvard Law School is part of Harvard University."}]}
+{"claim":"Barack Obama was born in New York.","label":"Refuted","evidence":[{"title":"Barack Obama","text":"Barack Obama was born in Honolulu, Hawaii."},{"title":"Honolulu","text":"Honolulu is the capital of Hawaii."}]}
+{"claim":"Albert Einstein influenced Modern Technology.","label":"NotEnoughInfo","evidence":[{"title":"Albert Einstein","text":"Albert Einstein was a theoretical physicist."},{"title":"Modern Technology","text":"Modern technology encompasses various disciplines."}]}
